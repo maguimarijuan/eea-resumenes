@@ -4,6 +4,7 @@
 
 ## Resumen teóricas 
 
+[Resumen](./resumen-teoria/resumen.md)
 
 ## Resumen de clases prácticas
 
