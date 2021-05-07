@@ -14,10 +14,7 @@
 
 ## Presentaciones de clases practicas
 
-- [Unidad 1: Macroeconomía como un flujo circular](./presentaciones-de-practica/macroeconomia-flujo-circular.pdf)
+- [Unidad 1 y 2](./presentaciones-de-practica/macroeconomia-flujo-circular.pdf)
 
 
-
-- [Unidad 2: Economía abierta]()
-
-- [Unidad 3: ]()
+- [Unidad 3: Sector externo - balanza de pagos](./presentaciones-de-practica/sector-externo-balanza-de-pagos.pdf)

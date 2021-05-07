@@ -1,4 +1,3 @@
-
 # La Ciencia Económica y sus datos
 
 ## Economía, ciencia política. Diversidad de enfoques teóricos. Objetividad y neutralidad
@@ -16,8 +15,6 @@ La valoración de los problemas socio-económicos y los lineamientos para su abo
 > El **problema económico** genera normalmente respuestas múltiples, todas ellas científicas aunque se muestren contradictorias entre sí. Entonces, el conflicto entre las escuelas del pensamiento económico por sostener prioridades diferentes y soluciones contrapuestas no cuestiona la validez científica de ninguna de ellas. 
 
 El pensamiento resulta científico cuando sostiene supuestos y análisis racionales acerca de la realidad y se apoya en marcos teóricos contrastables con los hechos. 
-
-
 
 ### La economía y el maldito caracter político de su objeto
 
@@ -114,3 +111,84 @@ Por otro lado, **tampoco es una condición excluyente de todo análisis disponer
 Una visión sólida acerca del curso de los acontecimientos **podría obtenerse en el límite, prescindiendo de los datos cuantitativos y limitándose a una evaluación cualitativa**. 
 
 Sin cálculos matemáticos, el sentido de las tendencias futuras podría vislumbrarse por el análisis de las conductas esperables de los agentes relevantes en la coyuntura de acuerdo con el marco teórico en curso. 
+
+# El capitalismo contemporáneo
+
+Economías mixtas, rol del estado y del mercado, conflicto entre eficiencia y equidad, fallas del mercado. 
+
+La **economía mixta** es la forma contemporanea del capitalismo. Operan las leyes del mercado y de la propiedad privada pero **solo parcialmente porque están acotadas por la intervención del estado.**
+
+
+Entonces, La forma contemporanea del capitalismo es la economía mixta:
+
+- La **producción y la inversión** están principalmente **a cargo del estado**.
+
+- La **intervención del estado** regula la acción del mercado.
+
+**Dos aspectos de la intervención del estado en la economía**
+1) Las acciones de política monetaria, cambiaria, fiscal, de comercio exterior, regulación de precios y salarios, subsidios a las familias y empresas, normativa para la producción y el comercio, entre otras. 
+2) La gravitación propia de su estructura organizacional (o sea, como intervienen en los mercado si no es intervención de "leyes"):
+   1) en cuanto a los mercados: por el volumen de sus gastos. 
+   2) en la estructura socio-ocupacional: por ser el primer empleador. 
+
+
+La **competencia** de mercado, en el grado en que exista efectivamente, impulsa la **productividad** del trabajo mediante inversiones, innovación técnica en los procesos y en los productos y por consiguiente el **crecimiento** tecnológico. 
+
+> La intervención del estado en los mercados busca compatibilizar la gestión privada de la economía con pautas gubernamentales de distribuición del ingreso. 
+
+Los **consumidores** se esfuerzan por conseguir más a mejor precio y los **productores** reducir costos y aumentar sus ventas. 
+
+> Esta tendencia al **ahorro de la mano de obra** y al **aumento no coordinado de la producción** suele provocar quiebras empresariales y elevados niveles de desempleo que empobrecen al a población. 
+
+Por lo tanto, el **poder político** se elije como tutor del mercado para prevenir los efectos no deseados sobre la equidad distribuitiva a causa del dinamismo y la creciente eficiencia productiva del sistema del mercado. 
+
+
+> La **regulación estatal** de la economía busca compatiblizar la dinámica productiva propia del mercado, con pautas gubernamentales de distribuición del ingreso, dadas las instituciones políticas y económicas vigentes. 
+
+### Breve perfil del sistema tributario argentino
+
+Un impuesto **progresivo** es aquel cuya tasa aumenta enla medida en que el ingreso gravado del contribuyente aumenta. Por el contrario un impuesto **regresivo** es aquel en que la capacidad del contribuyente no es tenida en cuenta por las alicuotas del impuesto. 
+
+El sistema tributario argentino se basa fundamentalmente en 4 impuestos: 
+- 44% IVA
+- 27.5% impuesto a las ganancias
+- 9.5% impuesto a los débitos y créditos vancarios
+- 6% retenciones a explotación. 
+
+Por lo tanto, nuestri sistema es netamente regresivo, y ademas, de alta complejidad de liquidación. 
+
+Problemas del régimen impositivo de la argentina: 
+- perdida de equidad provocados por mecanismo simplificados de imposición. 
+- cuando se afecta la actividad económica por fines estrictamente recaudatorios. 
+
+
+Un desafío primordial es pensar un sistema más progresivo y que logre escaparle a las distorsiones. Algo que permitiría distribuir mayormente la carga impositiva y reducir la necesidad de impuestos distorsivos. Incluyendo la meta de reducir la evasión. 
+
+
+# ¿Qué estudia la macroeconomía?
+
+Se llama macroeconomía a la colección de teorías y modelos que estudian el funcionamiento de la economía de un país. 
+
+El análisis macroeconóimico se ocupa de estudiar los niveles de:
+
+- Producción
+- Inversión
+- Balanza de pagos
+- Tasas de interés
+- Cambio de monedas 
+- Ocupación 
+- Precios
+- Cantidad de dinero y de crédito
+- Todo lo relativo al comportamiento cíclico como al crecimiento económico
+- La distribución de los ingresos
+- La pobreza
+
+> La teoría macroeconómica aporta así los fundamentos para formular las políticas económicas. 
+
+
+# Crecimiento y desarrollo económico
+
+El **crecimiento económico** es el aumento de la capacidad de producción o producto potencial de un país con el paso del tiempo 
+
+Se suele medir como la tasa de cincremento alcanzada por el producto e ingreso total medido a precios constanets. Resulta de interés comparar esa taza con la evolución del producto medio por habitante (PIB percapita)
+

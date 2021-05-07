@@ -158,6 +158,55 @@ Se cumple que: **PBI = Y = DA = VA**
 
 ![ejercicio-1](./imagenes/ejercicio-1.png)
 
-TODO
+A) 
+
+PBI = VPB - Insumos
+
+VBP = todas las ventas = 40u * 1 \$/u + 20u * 2 \$/u  + 20l * 3 \$/u  = 140$  \$
+
+(*el único que no se vende al cf*)
+Insumos = 40u * 1 \$/u = 40 \$
+
+PBI = 100 \$
+
+DA = PBI = 100 /$
+
+Y = PBI = 100 \$
+
+YD = Y - T + TR
+
+T = 0.2 (20u * 2 \$/u  + 20l * 3 \$/u ) = 20 \$
+
+TR = 0 
+
+*no hay impuestos de suma fija*
+
+YD = 100 \$ - 20 \$ = 80 \$
+
+G = 21
 
 
+SPu = T - G -TR = -1 \$
+
+SPr = 0.2 \% 80 \$ = 16 \$
+
+IBI = I = SPu + SPr = 15 \$
+
+
+*La demanda agregada es lo que le vuelve a las empresas!*
+PBI = DA = C + G + IBI 
+
+C = 100 \$ - G - IBI = 64 \$ 
+
+---
+
+**OTRAS MANERAS DE CALCULAR EL PBI**
+
+VAn: valor agregado de la naranja
+VAj: valor agregado del jugo
+
+PBI = VA = VAn + VAj = (40*1 + 20*2) + (20*3- 40*1) = 100
+
+PBI = ventas finales = 20*2 + 20 * 3 = 100
+
+---
