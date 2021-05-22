@@ -3,12 +3,13 @@
 - [Unidad 2: Economía abierta](#unidad-2-economía-abierta)
   - [Balanza de pagos](#balanza-de-pagos)
   - [Economía abierta](#economía-abierta)
+  - [Enfoque de absorción](#enfoque-de-absorción)
 
 ## Balanza de pagos
 
 Es la principal herramienta contable que registra las transacciones entre los residentes de un país  y los residentes del resto del mundo. 
 
-**Cuenta corriente**: transacciónes correintes entre residentes y el RM. Se dividie en tres:
+**Cuenta corriente**: transacciones corrientes entre residentes y el RM. Se dividie en tres:
 
 - Bienes y servicios
   - X: Exportaciones
@@ -19,7 +20,7 @@ Es la principal herramienta contable que registra las transacciones entre los re
   - Créditos: lo que reciben los residentes por haber aportado al RM. 
   - Débitos: lo que las familias (no residentes) aportan a la producción local en factores de la producción. 
 
-- Ingreso secundarios (transferencias corriente): donaciones o jubilidaciones de personas que han migrado. 
+- Ingreso secundarios (transferencias corriente): donaciones o jubilaciones de personas que han migrado. 
 
 **Cuenta de capital**: movimientos pequeños (no nos interesarán mucho)
 
@@ -36,7 +37,7 @@ Es la principal herramienta contable que registra las transacciones entre los re
 - **CC**: cuenta corriente
 - **CK**: cuenta capital
 - **CF**: cuenta financiera
-- **NTC**: neto de las transacciones correintes
+- **NTC**: neto de las transacciones corrientes
 - **VII**: variación de la inversión internacional
 - **VD**: variación de la deuda
 - **VRI**: variación de los resultados internacionales
@@ -90,3 +91,74 @@ YN = Y + INFE
 SE = - CC = CK - CF = X - Q + INFE
 
 ---
+
+
+## Enfoque de absorción
+
+*(siglas)*
+
+A: absorción interna. 
+YBN: ingreso bruto interno
+
+---
+
+**FORMULAS**
+
+A = C + I + G
+
+PBI = A + X - Q
+
+YBN = PBI + INFE
+
+YBN =  A + X - Q + INFE
+
+YBN = A + CC
+
+(*si CC < 0 hay exceso de absorción sobre el YN*)
+YBN - A = CC 
+
+---
+
+
+## Enfoque ahorro-inversión y las tres brechas
+
+*(siglas)*
+
+SN: ahorro nacional
+VD = variacion de la deuda externa
+VII = variación de la inversión internacional
+VRI = variación de reservas internacionales
+
+---
+
+**FORMULAS**
+
+I = S
+
+I = SPr + SPu + SE 
+
+I = SPr + (T - TR - G) - CC 
+
+SPR - I =  (G + TR - T) + CC
+
+
+SPr + SPu - I = CC
+
+
+SN - I = CC
+
+CC + CK = CF
+
+
+CC + CK = VII + VD + VRI
+
+CC + CK - VII - VD - VRI = 0
+
+
+CC =  - CK + VII + VD + VRI
+
+SN - I = VII + VD + VRI - CK
+
+---
+
+![ejercicio-2](./imagenes/ejercicio-2.png)

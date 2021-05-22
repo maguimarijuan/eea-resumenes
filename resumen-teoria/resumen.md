@@ -1,3 +1,24 @@
+RESUMEN TEORICA 
+---
+
+
+- [El capitalismo contemporáneo](#el-capitalismo-contemporáneo)
+    - [Breve perfil del sistema tributario argentino](#breve-perfil-del-sistema-tributario-argentino)
+  - [Donde falla el mercado interviene el estado](#donde-falla-el-mercado-interviene-el-estado)
+- [¿Qué estudia la macroeconomía?](#qué-estudia-la-macroeconomía)
+- [Crecimiento y desarrollo económico](#crecimiento-y-desarrollo-económico)
+  - [Factores condicionantes del crecimiento económico](#factores-condicionantes-del-crecimiento-económico)
+  - [Causas que explican el  crecimiento de la productividad](#causas-que-explican-el--crecimiento-de-la-productividad)
+  - [Crecimiento económico desigual](#crecimiento-económico-desigual)
+  - [Costos del crecimiento económico](#costos-del-crecimiento-económico)
+  - [¿Qué es el desarrollo y en qué se diferencia del crecimiento económico?](#qué-es-el-desarrollo-y-en-qué-se-diferencia-del-crecimiento-económico)
+  - [Seis factores del desarrollo económico](#seis-factores-del-desarrollo-económico)
+  - [Elementos condicionantes del subdesarrollo](#elementos-condicionantes-del-subdesarrollo)
+  - [Enfoques diferentes en cuanto a políticas económicas para el desarrollo](#enfoques-diferentes-en-cuanto-a-políticas-económicas-para-el-desarrollo)
+- [Teoría del ciclo económico](#teoría-del-ciclo-económico)
+  - [Recesión distinto de depresión](#recesión-distinto-de-depresión)
+  - [¿Qué hacer frente a la crisis?](#qué-hacer-frente-a-la-crisis)
+
 # La Ciencia Económica y sus datos
 
 ## Economía, ciencia política. Diversidad de enfoques teóricos. Objetividad y neutralidad
@@ -164,6 +185,10 @@ Problemas del régimen impositivo de la argentina:
 
 Un desafío primordial es pensar un sistema más progresivo y que logre escaparle a las distorsiones. Algo que permitiría distribuir mayormente la carga impositiva y reducir la necesidad de impuestos distorsivos. Incluyendo la meta de reducir la evasión. 
 
+## Donde falla el mercado interviene el estado
+
+![donde-falla-el-mercado](donde-falla-el-mercado.png)
+
 
 # ¿Qué estudia la macroeconomía?
 
@@ -188,7 +213,135 @@ El análisis macroeconóimico se ocupa de estudiar los niveles de:
 
 # Crecimiento y desarrollo económico
 
-El **crecimiento económico** es el aumento de la capacidad de producción o producto potencial de un país con el paso del tiempo 
+El **crecimiento económico** es el **aumento de la capacidad de producción** o **producto potencial de un país con el paso del tiempo**. 
 
-Se suele medir como la tasa de cincremento alcanzada por el producto e ingreso total medido a precios constanets. Resulta de interés comparar esa taza con la evolución del producto medio por habitante (PIB percapita)
+Se suele medir como la tasa de crecimiento alcanzada por el producto e ingreso total medido a precios constantes. Resulta de interés comparar esa taza con la evolución del producto medio por habitante (PIB percapita).
 
+## Factores condicionantes del crecimiento económico
+
+Existen dos enfoques:
+
+**Enfoque clásico:** rol del trabajo y del suelo. 
+
+De este enfoque surge un problema: con rendimientos decrecientes y cantidad fija de tierrra, la producción de alimentos tiende a crecer **menos** que la población. Por lo tanto, baja la productividad (*ley de rendimientos decrecientes a escala*) acarreando una baja del salario real y una renta creciente para el terrateniente. 
+
+> **Rendimientos de escala**: El término rendimientos de escala aparece en el contexto de la función de producción de una empresa. Hace referencia a los cambios en la producción que resultan de un cambio proporcional en todos los inputs (Elemento que participa en un determinado proceso productivo), cuando todos los inputs aumentan por un factor constante. 
+> **Rendimientos de escala se refieren a la relación existente entre la variación de los inputs de producción y la variación del output, relación más expresada en términos físicos**
+> *Así, los rendimientos de escala a los que se enfrenta una empresa están impuestos exclusivamente por la tecnología y no están influidos por las decisiones económicas o por las condiciones de mercado*
+
+**Enfoque Neoclásico:** asigna un rol al capital y el cambio tecnológico, plantea que:
+
+1. **Necesidad de intensificar el capital**: aumento de la productividad del trabajo y salarios reales. 
+2. **Cambio tecnológico mediante introducción de nuevos procesos y productos.** El cambio tecnológico, eleva las curvas de rendimientos reales del capital y la frontera de precios de factores. 
+
+> Los factores son: trabajo, capital, naturaleza, empresa y activos.
+
+## Causas que explican el  crecimiento de la productividad
+
+La **PRODUCTIVIDAD** es la relación entre la producción de cierto bien y un promedio ponderado de sus factores de producción.
+
+> Siglas utilizadas: K = capital, L = trabajo, Q = producto, w/p = salario real, i/p = tasa de interés real, g' = tasa de ganancia
+
+1) La **intensificación del capital**: $\Delta K/ L$, la misma determina directamente la  productividad (medida como producción per capita) cuando el progreso tecnológico es cero. Por lo tanto, la productivaidad aumentará acompañando el crecimiento de la formación de capital fijo (construcciones y equipo productivo)
+2) La **sustitución de insumos** por otros de mayor o menor rendimiento afecta también la evolución de la productividad. 
+3) Los **avances y retrocesos de unas ramas frente a otras** afectan la productividad de la economía en función de sus productividades relativas: si avanza una industria muy productiva sube la productividad global. 
+4) El aumento de los **fondos destinados a investigación y desarrollo**, con fines civiles **orientados a elevar la capacidad de la fuerza de trabajo**, incrementa la productividad. 
+
+## Crecimiento económico desigual
+
+Actualmente existe una enorme brecha entre países por su diferente grado de crecimiento económico. 
+
+
+## Costos del crecimiento económico
+
+La experiencia histórica, muestra que el crecimiento económico liderado por el mercado, crean lo nuevo **destruyendo impiadosamente lo viejo**. 
+
+Características del crecimiento:
+
+- En **pleno empleo**, el crecimiento depende de **la inversión y éste del nivel de ahorro**, este proceso puede implicar una pérdida de consumos presentes para hacer posible un mayor consumo en el futuro. 
+- La manía del crecimienot conduce a una menor calidad de vida (contaminación, stress, hacinamiento).
+- Suele implicar grandes cambios en la organización del trabajo (caducidad de tareas, oficios y ramas enteras de producción). Esto impone grandes desafíos económicos y políticos para minimizar el daño. 
+
+## ¿Qué es el desarrollo y en qué se diferencia del crecimiento económico?
+
+Deesarrollo es **crecimiento con progresos social.** El crecimiento del producto, se convierte en desarrollo económico, cuando se lleva a cabo de manera paralela con un **sostenido mayor bienestar social por mejoras obtenidas en las condiciones de vida de la comunidad.**
+
+Algunos indicadores del grado de desarrollo económico:
+- PBI por habitatnte
+- Tasa de crecimiento del PBI por habitante
+- Tasadde analfabetismo
+- Esperanza de vida al nacer
+- Tasa de inflación 
+- Medicos cada 1000 habitantes
+- Tasa de ahorro respecto del PBI 
+- Elevado desempleo estructural
+- Equidad distributiva de los ingresos
+- Tasa de actividad (población económicamente activa, población en edad de trabajar)
+- etc. 
+
+## Seis factores del desarrollo económico
+
+1) Recursos humanos (oferta laboral, educación, motivación)
+2) Recursos naturales (tierra, minerales, combustibles, clima)
+3) Formación de capital (máquinas, fábricas, rutas, represas)
+4) Tecnología (ciencia, ingeniería, organización del trabajo, iniciativa empresarial)
+5) Mododo de insercción de cada país en la economía mundial
+6) Caracter y rol del estado en la promoción del desarrollo local (intereses representados, capacidad y oportunidad, dependencia, etc.)
+
+**Ecuación fundamental de la contabilidad del crecimiento**
+
+$$
+\% \Delta Q = a \% \Delta K + b \% \Delta N +  \% \Delta tech 
+$$
+
+Q: es el crecimiento. a es el nivel de productividad. K es el stock de capital. 
+
+## Elementos condicionantes del subdesarrollo
+
+Factores de orden interno que **impiden a un país salir del subdesarrollo:**
+
+1) Población enferma y desnutrida que no puede trabajar. 
+2) Erradicación del analfabetismo, educación formal profesional y técnica
+3) Falta de recursos naturales
+4) Formación de capital y capacidad de ahorro y de obtener divisas necesarias para comprar más bienes de capital e insumos. Importancia d elas obras de infraestructura económica. 
+5) Creciente dependencia del endeudamiento externo, puede crear condiciones que limiten la capacidad de encarar políticas de desarrollo con financiamiento estatal directo. 
+6) Necesidad de los países atrasado de copiar innovaciones técnicas, dificultad para producirlas.
+
+## Enfoques diferentes en cuanto a políticas económicas para el desarrollo
+
+1) Industria versus agro
+2) Mercado interno sustitución de importaciones versus exportación 
+3) Especialización versus diversificación 
+4) Estado versus mercado
+
+# Teoría del ciclo económico
+
+La economía moderna se caracteriza por su tendencia al crecimiento de la producción de manera **no lineal**.  Contiene, momentos de aceleración y de estancamiento, auges y crisis de caracter cíclico. 
+
+> Los ciclos económicos pueden desencadenar inflación en sus fases de auge y acarren desempleo en las crisis. 
+
+## Recesión distinto de depresión 
+
+Una recesión es una debilidad en la demanda en dos o más trimestres, con estancamiento o contracción **no muy profunda ni dudadera** del producto y el desempleo en alza. 
+
+
+Una depresión se caracteriza por una **baja anormalmente prolongada e intensa de la actividad económica y del empleo**. Puede consistir en la reinteeración de **ciclos recesivos seguidos de suaves recuperaciones antes de tomar el crecimiento.**
+
+
+> Una **definición de recesión**:  es una significativa declinación de la actividad económica que se esparce a lo largo de toda la economía que dura más de unos pocos meses y normalmente es **distinguible en el PBI real**  y en los ingresos reales como también en el empleo, la producción industrial, el comercio mayorista y minorista. 
+
+
+Una recesión comienza justo despues de que la economía alcanza un pico de actividad y termina cuando la economía alcanza un mínimo. **Entre pico y pico se dice qque la economía se halla en expansión.**
+
+
+> Una recesión se la conoce como un **retroceso en la actividad económica**. La identificación de una recesiión con dos trimestres consecutivos de crecimiento negativo del PBI **no es una designación oficial**.
+
+La recesión es un concepto de dimensión mensual que tienen en cuenta una serie de indicdores mensuales, como el empleo, los ingresos personales y la producción industrial, así tambien como el crecimiento trimestral del PBI. *La recesión depende de varias cosas, como el **empleo**, no solamente del decrecimiento del PBI.*
+
+Las teorías acerca del ciclo económico y sus causas y efectos, fundamentan qué tipo de herramienta de política económica resultan apropiadas para moderar la inestabilidad macroeconómica cíclica y sus consecuencias sobre la economía y la sociedad. 
+
+La **estructura anárquica del mercado** es un punto de partida para explicar la recurrencia de ciclos. 
+
+La **potente dinámica capitalista del crecimento de la producción** culmina sus momentos en auge desbocada, acumulando enormes masas de nuevas inversiones multiplicando la capacidad productiva. En algún momento, **el buevo stock de capital productivo se verá excesivo** frenet a la demanda efectiva. Por lo tanto, nuevos y viejos equipos de producción compiten por ganar mercado, **quedando fuera de servicio y desvalorizando los recursos más viejos y menos eficientes.**
+
+## ¿Qué hacer frente a la crisis? 
