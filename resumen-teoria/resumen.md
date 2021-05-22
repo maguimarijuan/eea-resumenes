@@ -18,6 +18,8 @@ RESUMEN TEORICA
 - [Teoría del ciclo económico](#teoría-del-ciclo-económico)
   - [Recesión distinto de depresión](#recesión-distinto-de-depresión)
   - [¿Qué hacer frente a la crisis?](#qué-hacer-frente-a-la-crisis)
+  - [Principales aportes de la teoría keynesiana del ciclo económico](#principales-aportes-de-la-teoría-keynesiana-del-ciclo-económico)
+  - [Supuestos básicos de la teoría Keynesiana](#supuestos-básicos-de-la-teoría-keynesiana)
 
 # La Ciencia Económica y sus datos
 
@@ -345,3 +347,52 @@ La **estructura anárquica del mercado** es un punto de partida para explicar la
 La **potente dinámica capitalista del crecimento de la producción** culmina sus momentos en auge desbocada, acumulando enormes masas de nuevas inversiones multiplicando la capacidad productiva. En algún momento, **el buevo stock de capital productivo se verá excesivo** frenet a la demanda efectiva. Por lo tanto, nuevos y viejos equipos de producción compiten por ganar mercado, **quedando fuera de servicio y desvalorizando los recursos más viejos y menos eficientes.**
 
 ## ¿Qué hacer frente a la crisis? 
+
+Tanto Keynes como otros autores explicaron la dinámica del ciclo económico como determinada por las oscilaciones de la **demanda agregada arrastrada por alzas y bajas de sus componentes autónomos**, es decir, los gastos que no se generan en función del nivel de la producción ni por los ingresos de cada momento. 
+
+Entre los componentes autónomos de la demanda, el factor más relevante para explicar el ciclo económico es **la inversión productiva**.
+
+En ausencia de intervención estatal o comercio exterior, **la magnitud de las nuevas inversiones productivas (I) serían la principal componente explicativa del comportamiento de la demanda agregada.** 
+
+
+El enfoque Keynesiado generó modelos teóricos que explican el funcionamiento de la economía no solamente bajo pleno empleo sino también en condiciones de un elevado desempleo de los recursos productivos. 
+
+> **Supuesto del pleno empleo**:  conduce a adoptar modelos económicos donde cualquier disminución de los niveles de rpoducción y empleo respecto de su nivel potencial desencadenaría una baja de precios y salarios estimulante de la demanda necesaria para retornar al pleno empleo. 
+
+Largos periodos de desempleo tirarían a bajo esta teoría cediendo lugar a la **intervención del estado en el mercado.**
+
+Keynes criticaba la los clásicos que se oponían a la intervención del estado (imponiendo salarios mínimos) ya que entendía que la causa del desempleo duradero **radica en la insuficiencia de la demanda efectiva de la comunidad para dar trabajo** a todos los que aceptarían el nivel vigente de salarios. 
+
+Keynes señala que:
+
+1) La desocupación no puede corregirse con la baja de salarios porque los sindicatos toleran bajas hasta ciertos límites que impiden que se recuperen cantidad signficativa de puestos de trabajo. 
+2) En condiciones depresivas del mercado ello podría desencadenar una caída mayor de los precios, con la correspondiente suba del salario real. 
+3) Aún suponiendo que se logra una baja en el salario real, su efecto sobre la demanda agregada y el empleo dependería del resultado neto entre la correspondiente caída del consumo corriente ny el esperado aumento en la demanda de bienes de capital por la disminución del costo de producción. 
+
+La teoría keynesiana constata que las coyunturas con desempleo son, en la economía moderna, más numerosas que las de pleno empleo, que los mercados auto regulados pueden demorar excesivamente el retorno a situaciones de equilibrio y que al pleno empleo se llega por casualidad o deliveradamente. 
+
+## Principales aportes de la teoría keynesiana del ciclo económico
+
+Según keynes sólo existe un punto de equilibrio, un sólo nivel de ocupación en el que coinciden la demanada y la oferta globales, y normalmente, ese punto de equilibrio en el nivel de la actividad económica **resulta insuficiente para alcanzar el pleno empleo.**
+
+Una teoría que toma en cuenta el desempleo de la actividad económica bajo tanto en **pleno empleo y en desempleo**.
+
+## Supuestos básicos de la teoría Keynesiana
+
+
+**1ro)** Un nivel significativo y duradero de desempleo resulta habitual en el funcionamiento de la economía moderna. 
+
+**2do)** Habiendo desempleo y capacidad productiva ociosa, un aumento de la demanda agregada puede elevar el nivel de la actividad económica y disminuir el desempleo. 
+
+**CONCLUSIÓN 1)** a corto plazo, el nivel de ingreso real Y dependerá de la demanda agregada DA. 
+
+**3ro)** La experiencia indica que, sin intervención estatal ni del comercio exterior, las decisiones empresarias de invertir o no en equipo productivo y contrucciones explican las alzas y bajas del ciclo económico. 
+
+**4to)** La inversión en bienes de capital (I) es autónoma respecto del ingreso, es decir, no depende del nivel de  ingreso real (Y) en el presente sino de las expectativas acerca de la rentabilidad que podrían rendi en el futuro esas inversiones. De manera similar, el gasto del gobierno (G) depende de las decisiones políticas y las exportaciones X del tipo de cambio y del nivel de actividad de otras economías. Por eso, son ejemplo de **gastos autónomos que integran la demanda agregada.**
+
+**5to)** En cambio, **el consumo corrente de las familias (C)** es fuertemente dependiente del nivel de ingreso (Y) y, por lo tanto, se acomoda al ciclo económico. 
+
+
+**CONCLUSIÓN 2)** El nivel de la demanda agregada (DA) depende de la demanda autónoma "A", también llamada "gasto autónomo": DA = f(A). Siendo Y = f(DA) y C = f(Y), se infiere que, cuanto mayor sea el gasto autónomo A en un periódo, tanto mayores serán consumo, ganancias, empleos y masa salarial, entre otras variables. 
+
+**6to)** La ley de Say niega la insuficiencia general de la demanda porque la producción 
