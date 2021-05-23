@@ -20,6 +20,9 @@ RESUMEN TEORICA
   - [¿Qué hacer frente a la crisis?](#qué-hacer-frente-a-la-crisis)
   - [Principales aportes de la teoría keynesiana del ciclo económico](#principales-aportes-de-la-teoría-keynesiana-del-ciclo-económico)
   - [Supuestos básicos de la teoría Keynesiana](#supuestos-básicos-de-la-teoría-keynesiana)
+  - [Modelo keynesiano de ingreso-gasto con precios dados](#modelo-keynesiano-de-ingreso-gasto-con-precios-dados)
+    - [Función consumo](#función-consumo)
+    - [Función inversión](#función-inversión)
 
 # La Ciencia Económica y sus datos
 
@@ -395,4 +398,104 @@ Una teoría que toma en cuenta el desempleo de la actividad económica bajo tant
 
 **CONCLUSIÓN 2)** El nivel de la demanda agregada (DA) depende de la demanda autónoma "A", también llamada "gasto autónomo": DA = f(A). Siendo Y = f(DA) y C = f(Y), se infiere que, cuanto mayor sea el gasto autónomo A en un periódo, tanto mayores serán consumo, ganancias, empleos y masa salarial, entre otras variables. 
 
-**6to)** La ley de Say niega la insuficiencia general de la demanda porque la producción 
+**6to)** La ley de Say niega la insuficiencia general de la demanda porque la producción  generaría ingresos y, así, su propia demanda. De acuerdo con Keynes esta noción es válida sólo si hay pleno empleo. Pero se convierte en un dogma peligroso durante una depresión porque las necesidades de las personas que se reuelven a través del mercado (comida, vivienda, etc) no pueden esperar mucho tiempo hasta que la economía se vuelva a recuperar. Para keynes, **al pleno empleo se llega por casualidad o deliveradamente.**
+
+**7mo)** Todo aumento del ingreso se convierte en mayores consumos pero no totalmente porque una porción del nuevo ingreso de la comunidad se destina al ahorro. 
+
+**CONCLUSIÓN 3)** Es incorrecto que, para que aumente la inversión productiva (I), deba esperarse un aumento del ahorro que resulte en un descenso de las tasas de interes. Un aumento de la inversión I repercute en mayores ingresos y así en los ahorros necesarios para financiar esa nueva inversión. 
+
+**8vo)** Las tasas de interés se forman en el mercado de dinero, donde  la demanda de dinero L expresa la preferencia por la liquidez y depende principalmente del sector privado mientras que la oferta de dinero (M/P) resulta de una decisión de política monetaria a cargo del banco central. 
+
+**CONCLUSIÓN 4)** Los bancos centrales pueden estimular a la inversión I fomentando tasas bajas de interes a través de politicas expansivas de la disponibilidad de crédito. 
+
+**CONCLUSIÓN 5)** Cuando las políticas monetarias no resulten efectivas para revertir un elevado desempleo, debe elevarse el ingreso disponible (YD = Y + TR - T) reduciendo el ahorro del gobierno mediante mayores gastos corrientes, obras públicas y subsidios o menores impuestos. 
+
+### Un abordaje pre-keynesiano
+
+Kalencki planteo: 
+
+Demanda agregada = consumo asalariados + consumo de capitalistas + inversión en bienes de capital
+
+Ingreso = consumo de asalariados + plus valor
+
+
+- Omite al estado y al comercio exterior
+- Plusvalor que incluirá 
+  - la porción del ingreso con que los capitalistas financian su inversión productiva (ahorro de capitalistas) 
+  - más la porción del ingreso aplicada al consumo de sus familias, suponiendo que el ahorro del asalariado es cero. 
+- E**l nivel de consumo de los asalariados depende tanto de la cantidad de trabajadores ocupados como del nivel de las remuneraciones al tarbajo**. Ambos factores dependeránde las alzas y bajas del nivel de producción dispuestos por los capitalistas. 
+- El consumo de los capitalistas es estable. Entonces, el nivel de consumo correinte de las familias es dependiente de los ciclos de la producción y empleo. 
+- **Suponiendo la existencia de desempleo, las decisiones de inversión productiva en bienes de capital sí serían capaces de desencadenar ciclos económicos contemporaneos que se mueven en función de las expectativas empresarias de ganancias futuras**, con relativa independencia del presente de ingresos, demanda y producción. 
+- La naturaleza autonoma respecto del nivel de producción e ingresos se dará no solo en la inversión productiva sino también a otros componentes de la demanda tales como el gasto público y el comercio exterior, **compartiendo esa capacidad de influir por si mismos sobre el ciclo económico.**
+
+**Paradoja del sistema del mercado (Kalencki)**
+
+Los capitalistas tomados en conjunto, ganarán más cuanto más gasten en bienes de capital y consumo. Pero esta inversión no motoriza el ciclo porque aumente la capacidad producitiva sino por el **efecto reactivador del gasto y producción de esos bienens junto con los nuevos empleos que ello requiere.**
+
+## Modelo keynesiano de ingreso-gasto con precios dados
+
+
+Modelo orientado a **analizar el funcionamiento de la economía durante una crisis.** No se espera que los precios se alteren. 
+
+Este modelo pone **Y en función de la DA**. La **DA** se modificará en función de cambios que se produzcan en algunos de sus componentes **autónomos** (que no dependen de Y: **A** o **Ao**)
+
+En el caso de una economía cerrada con el exterior, el modelo se apoya en funciones de comportamiento relativas al consumo corriente de las familias **C**. 
+
+La función **C** depende principalmente del nivel de ingresos, pero también en componentes autónomos de la demanda agregada o gasto autónomo **A**, como el caso de la inversión **I** y del gasto del gobierno **G**. 
+
+En el caso de una economía abierta a las funiones ateriores se le agregan las funciones de exportación **X** e importación **IMP**.
+
+---
+Siglas:
+
+- Y: ingreso
+- A ó Ao: gasto autónomo
+- X: exportaciones 
+- IMP: importaciones
+- C: consumo de las familias o función consumo. 
+- G: gasto del gobierno. 
+- Co: la parte del consumo explicado por el nivel de riqueza y otros factores diferentes de Y. 
+- Io: la demanda de bienes de capital explicada por ls expectativas de ganancia. 
+- PMgC: procensión al cosumo: relación entre el consumo corriente de las familias y el nivel de ingreso.
+- Impacto positivo de TR sobre el C: PMgC (PMgC*TR)
+- Eecto negativo de los impuestos T sobre C dada PMgC (-PMgc * T)
+
+---
+
+En algunos casos A podría incluir a: Co, Io, el impacto postivo de TR e impacto negativo de T.
+
+### Función consumo
+
+Los factores que determinan esta función pueden ser muchisimos e inmanejables. Por lo tanto, nos quedamos con: nivel de ingreeso, propensión al consumo y Co, parte del consumo explicado por el nivel de riqueza y otros factores diferentes de Y. 
+
+C = Co + PMgC * YD
+
+
+Co es la parte de consumo que no depende del nivel de ingreso, sino que recoge la influencia sobre el consumo de numerosos factores y, principalmente, el nivel de riqueza. 
+
+PMgC es la propensión al consumo, es decir, la relación entre el consumo corriente de las familias y el nivel de ingreso. *Cuanto más rica es una familia o economía, mayor será su capacidad de ahorro y, por lo tanto, menor tendrá que ser la PMgC.*
+
+La PMgC es menor que 1 dado que las familias (psicologicamente) no destinan la totalidad de su incremento de ingresos al consumo, sino también en parte al ahorro. 
+
+$\Delta Y > \Delta C$ dado que $\Delta Y = \Delta C + \Delta Ah$ . Como el consumo aumenta en un valor menor que el ingreso, se genera un nuevo ahorro. Para que se recupere una economía en crisis, la brecha positiva de ahorro entre la recuperación del ingreso y la del consumo tendrá que se cubierta con la inversión:  $\Delta Y - \Delta C = \Delta I$
+
+
+Para que no frene la recuperación, las inversiones deben subir hasta el punto donde la nueva demanda de bienes de capital permita absorver la totalidad del nuevo ahorro generado por la recuperación. 
+
+Adicionalmente sabemos que el YD = Y + TR - T
+
+---
+
+**FUNCIÓN CONSUMO**
+
+C = Co + PMgC * (Y + TR - T)
+
+C = Co + PMgC * Y + PMgC * TR - PMgC * T
+
+**Esta función consumo, permite estimar los efectos que sobre el consumo pueden tener dos improtantes acciones del estado: los subsidios y los impuestos.**
+
+---
+
+### Función inversión
+
+
