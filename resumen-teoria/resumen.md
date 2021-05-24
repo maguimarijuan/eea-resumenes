@@ -23,6 +23,24 @@ RESUMEN TEORICA
   - [Modelo keynesiano de ingreso-gasto con precios dados](#modelo-keynesiano-de-ingreso-gasto-con-precios-dados)
     - [Función consumo](#función-consumo)
     - [Función inversión](#función-inversión)
+    - [Función gasto del gobierno](#función-gasto-del-gobierno)
+  - [Función demanda agregada dependiente del gasto autónomo (Ao) y del ingreso (Y) para una economía cerrada](#función-demanda-agregada-dependiente-del-gasto-autónomo-ao-y-del-ingreso-y-para-una-economía-cerrada)
+  - [El multiplicador Keynesiano](#el-multiplicador-keynesiano)
+  - [Herramientas de Politica fiscal: su impacto sobre producción y empleo](#herramientas-de-politica-fiscal-su-impacto-sobre-producción-y-empleo)
+- [Teoría del dinero y del sistema financiero](#teoría-del-dinero-y-del-sistema-financiero)
+  - [Ssitema monetario y financiero: instituciones, instrumentos y sus funciones pra la producción y el intercambio](#ssitema-monetario-y-financiero-instituciones-instrumentos-y-sus-funciones-pra-la-producción-y-el-intercambio)
+    - [Instituciones](#instituciones)
+      - [Bancos centrales](#bancos-centrales)
+      - [Bancos Comerciales y demás EF](#bancos-comerciales-y-demás-ef)
+      - [Mercado de capitales](#mercado-de-capitales)
+      - [Mercado de derivados](#mercado-de-derivados)
+    - [El dinero](#el-dinero)
+      - [Dinero legal](#dinero-legal)
+  - [Creación primaria y secundaria de dinero: balance del banco central y base monetaria / Balance de los bancos comerciales y oferta monetaria / Indicadores](#creación-primaria-y-secundaria-de-dinero-balance-del-banco-central-y-base-monetaria--balance-de-los-bancos-comerciales-y-oferta-monetaria--indicadores)
+      - [Términos y aspectos operativos de las entidades financieras](#términos-y-aspectos-operativos-de-las-entidades-financieras)
+        - [Sistema de encajes fraccionarios](#sistema-de-encajes-fraccionarios)
+        - [Reservas bancarias](#reservas-bancarias)
+      - [Circulante](#circulante)
 
 # La Ciencia Económica y sus datos
 
@@ -497,5 +515,258 @@ C = Co + PMgC * Y + PMgC * TR - PMgC * T
 ---
 
 ### Función inversión
+
+Esta función de comprotamiento incluye a la inversión privada, porque la pública obedece criterios políticos y no leyes del mercado. 
+
+La inversión tiene dos determinantes principales:
+- Las expectativas de rentabilidad de los proyectos de inversión factibles
+- Las tasas de interés de mercado. 
+
+
+---
+
+Siglas:
+
+Io: monto de los planes de inversión que habría si la tasa de interés fuera nula. 
+
+Esa magnitud decrece en una proporción b de los valores positivos que asuma la tasa de interés i.
+
+
+**FUNCION INVERSIÓN**
+
+I = Io - b * i
+
+---
+
+
+### Función gasto del gobierno
+
+EL gasto del gobierno, resulta **autónomo** respecto del ingreso, las tasas de interes y cualquier otra variable del mercado, porque es una decisión del gobierno. 
+
+Su magnitud no se ajusta a los cambios que se produzcan a nivel de la actividad económica, sino de aceuro con el criterio del gobierno que, en muchos casos, **tenderá a modificar su gasto en un sentido contrario a las tendencias del mercado.**
+
+## Función demanda agregada dependiente del gasto autónomo (Ao) y del ingreso (Y) para una economía cerrada
+
+De la combinación  de las funciones anteriores surge la función demanda agregada dependiente de Y y el llamado *modelo básico keynesiano* donde se reexpresa DA = C + G + I de las cuentas nacionales, por un modelo teórico donde esos agregados y, por lo tanto, la DA, se reexpresan en función de sus factores determinantes. 
+
+---
+
+**FUNCIÓN DEMANDA AGREGADA**
+
+DA = Co + PMgC * Y + PMgC * TR - PMgC * T + G + Io - bi
+
+---
+
+La expresión en terminos de cuentas nacionales contenía un registro histórico, para la expresión análoga en terreno de la teoría macroeconómica contiene hipótesis científicas acerca del comportamiento probable de los agentes económicos. 
+
+Para simplificar, podemos agrupar como gasto autónomo o demanda autónoma, bajo la sigla AO, a los componentes de la DA cuyo comportamiento no depende del nivel de ingreso (Y). Si consideramos que **la tasa de interés está controlada por el banco central y, por lo tanto, no cambiará en función del nivel de ingreso si no de la política monetaria**, entonces, podemos incluirla en la determinación del gasto autónomo.
+
+
+Gasto atuónomo = Ao - bi = Co + PMgC * TR - PMgC * T + G + Io - b * i
+
+
+DA = Ao + PMgC * Y - b*i
+
+## El multiplicador Keynesiano
+
+El modelo del multiplicador keynesiano ("mk") sirve para **estimar la magnitud de las medidas de política económica** para conseguir cierto objetivo de **ocupación e ingresos.**
+
+Permite estimar la relación entre la cantidad de nuevos gastos "autónomos" corregidos por el efecto de las tasas de interes necesaria para que cierta magnitud del cambio que se desea incluir en el nivel de ingreso real  (Y) tal que deje a la economía en un nuevo equilibrio donde Y = DA. 
+
+
+---
+
+**FORMULAS DEL MULTIPLICADOR KEYNESIANO**
+
+$$
+mk = \frac{\Delta Y^*}{ \Delta (Ao - b * i)}
+$$
+
+De manera análoga tenemos que: $\Delta Y^* = mk \Delta G = mk * \Delta I = mk * \Delta(Ao - b * i)$
+
+Se lo puede calcular como la inversa de la propensión al ahorro:
+
+
+$$
+mk = \frac{1}{1 - PMgC}
+$$
+
+---
+
+El multiplicador keynesiano es el resultado de un proceso económico consistente en que un cambio en el gasto autónomo, es decir, en los componentes de la demanda agregada no dependientes del nivel de ingreso, es una nueva demanda solvente de bienes y servicios que deben ser producidos.
+
+ Como la producción con destino a esa demanda genera nuevo ingreso por igual valor, tal ingreso se convertira en nuevos consumos en la proporción dada por la PMgC, de valor siempre inferior a la unidad, lo que a su vez vuelve a aumentar el ingreso y así una serie infinita de sumandos decrecientes.
+
+
+Un aumento de la demanda autónoma, determina un efecto mayor que una reducción en los impuestos, mayores TR o menores T no consituyen en sí demanda agregada sino cmponentes del ingreso disponible Y, por ello, al modificarse su valor, se verá modificado el consumo corriente de las familias. 
+
+## Herramientas de Politica fiscal: su impacto sobre producción y empleo
+
+Los gastos o el endeudamiento incurridos para atender a las necesidades económicas propias del funcionamiento del aparato del estado **implicaron siempre algún grado de influencia, deliberada o no, sobre el mercado y las actividades productivas.**
+
+
+La **política fiscal**, entendida como el **manejo del presupuesto público como herramienta económica** impulsada en parte por la carrera armamentista y también tras el objetivo del pleno empleo de la mano de obra. 
+
+En **economía** se denomina **política fiscal** al uso que hace un gobierno del presupuesto público a fin de influir deliberadamente en algún aspecto del ámbito de la producción y la circulación de bienes, los precios e ingresos y el trabajo. 
+
+Si el objetivo es **aumento del nivel de empleo** -> promover una **expansión** de la demanda agregada, el ingreso y el empleo:
+- Aumentando el **gasto gubernamental** .
+- Aumentando TR. 
+- Reduciendo T, crese el ingreso que queda disponible para el consumo familiar.
+
+Si a la par del aumento del gato estatal G, aumentaran también los impuestos T, para garantizar genuino financiamiento prescindiendo de todo endeudamiento, esos mayores impuestos reducidirían sustancialmente el ingreso disponible y, con ello, el consumo corriente de las familias C, teniendo a anular el efecto potencialmente expansivo de aumentar el gasto estatal G sobre el nivel de actividad. 
+
+Si el objetivo es **combatir la inflación** -> promover una **contracción** de la DA y, a partir de ahí, del ingreso, los precios, y el empleo: 
+- Reducir el **gasto del gobierno**
+- Reducir TR
+- Aumentar los impuestos
+
+Esto es aplicable si el objetivo gubernamental es **atacar la inflación**, es decir, manejando el presupuesto nacional para desalentar la producción y el empleo. Por sus efectos **recesivos** tanto en el plano laboral como empresario, se suelen desarrollar **políticas alternativas** orientadas a la contención del alza de los precios, incluyendo la regulación gubernamental de  los precios y los salarios o bien la promoción de compromisos antiinflacionarios entre el gobierno, los sindicatos y las empresas, entre otras iniciativas.
+
+# Teoría del dinero y del sistema financiero
+
+## Ssitema monetario y financiero: instituciones, instrumentos y sus funciones pra la producción y el intercambio 
+
+La creciente y diversificada división del trabajo que acompaña al progreso técnico multiplicó no sólo la capacidad productiva sino también la necesidad de coordinación producitiva y financiera entre numerosos agentes económicos, esto es: entre proveedores con sus clientes y en la asignación de financiamientoa los productores. 
+
+Estos mismos procesos reposan en la **existencia de una única moneda de valore relativamente estable** tanto en términos de bienes y servicios como de las monedas extranjeras. 
+
+Las actividades vinculadas con el financiamiento de la producción y el consumo están a cargo del Banco central y de las entidades financieras:
+
+![esquema-del-sistema-financiero](esquema-del-sistema-financiero.png)
+
+Sin una unidad monetaria de amplia aceptación, creada por los bancos centrales, no podría exister un sistema de **intercambios generalizados** como el que caracteriza a la economía de mercados. 
+
+La cireculación de los fondos ofrecidos por ahorristas inversores hacia las empresas y consumidores demandantes de dinero es un requisito para el crecimiento de la actividad económica. 
+
+Los intrumentos de cobertura que se negocian en el ámbito de mercado de derivados permiten la planificación de producción y precios a mediano plazo en mercados sometidos a una elevada volatilidad. 
+
+--- 
+
+Una **crisis** del sistema finaciero se caracteriza por una abrupta caída de la magnitud de dinero disponible para la circulación de bienes y servicios "reales", su producción y consumo. Al mismo tiempo, cae la inversión en medios de producción y se multiplican el desempleo y las quiebras empresarias.
+
+--- 
+
+
+### Instituciones
+
+Estructura el sistema financiero instrumentando las exigencias monetarias de la producción y el intercambio. 
+
+#### Bancos centrales
+
+- Tiene por finalidad formular políticas monetarias que garanticen la funcionalidad de la moneda nacional promoviendo al mismo tiempo objetivos de empleo y precios en colaboración con el gobierno nacional. Estos objetivos pueden resultar contradictorios en ciertas ocasiones y requieren acuerdos entre el gobierno y el banco central. 
+- Su objetivo es amortiguar ciclos económicos a través de la política monetaria, regulando el volumen de crédito disponible para la demanda y las tasas de interés. 
+- Tiene a cargo la supervisión de las entidades financieras. 
+- Es prestamista de última instancia de las EF en caso de crisis individual o de sistema. 
+- Emisor de la moneda nacional, custodia su poder de compra tanto frente a bienes como a las monedas extranjeras. 
+- Es agente financiero del gobierno. 
+
+#### Bancos Comerciales y demás EF
+
+- Llevan a cabo una intrmediación para movilizar fondos entre depositantes y prestarios. 
+- Percibe una tasa de interés por sus préstamos (tasa activa) que debe ser superior a la tasa que paga a sus depositantes (tasa pasiva) para obtener un margen (spread).
+  
+
+#### Mercado de capitales
+
+Da transparencia al mercado de activos financieros constituído por las acciones y los bonos (títulos de deuda). Estos instrumentos captan el ahorro y la existencia de un merdado de capitales desarrollado faiclita la participación de pequeños ahorristas. 
+
+#### Mercado de derivados
+
+Da marco institucional a las operaciones de lanzamiento, compra y venta de futuros u opciones, tanto de compra como venta, llevadas a cabo por productores, comerciantes, financistas o inversores. La adquisición de esos intrumentos tiene fines de cobertura, es decir, para asegurarse un precio futuro de sus productos pero fijado hoy. 
+
+### El dinero
+
+Dinero es el tipo de mercancía, instrumento convencional o registro contable de crédito o débito que se acepta sin reparo comomedio de pago para vender y comprar. 
+
+Un sistema de truece es inimaginable para una economía ampliamente fundada en la dividión del trabajo, de donde la desaparición del dinero paralizaría todo el circuito moderno de producción y distribución. 
+
+En economía el concepto de dinero es, la suma de los medios de pago que dispone la comunidad para realizar sus gastos. "Suma de medios de pago" como "oferta monetaria", son formas de referirse eneconomía a la "cantidad de dinero" o "stock de dinero" en poder del público. 
+
+Los stock de medios de pago incluye billetes, monedas, depósitos entre otros instrumentos monetarios cuya conversión en billetes y monedas puede diferirse en el tiempo. Los componentes del stock de dinero tienen diferentes grados de liquidez. 
+
+#### Las funciones del dinero
+
+Funciones del dinero para servir como dinero en las transacciones, comerciales y financieras. Ellas son: 
+
+- **Medio de compra (medio de cambio o medio de circulación):** la existencia de dinero sirve para fijar a un precio a los bienes y servicios destinados a la venta. 
+  
+- **Unidad de cuenta**: el dinero provee un denominador común al valor de las cosas haciendo factible sumar y restar las transacciones por su valor expresado en dinero y llevar registros contables. 
+
+- **Medio de pago**: sirve para hacer efectivas las promesas de pago convenidas cancelando la obligación en efectivo. 
+
+- **Reserva de depósito de valor:** el dinero nacional puede atesorarse (salir de circulación) para, en el futuro, volver al circuito comercial. O bien puede despoitarse en un banco (para volver a la circulación mediante el sistema crediticio).
+
+#### Dinero legal 
+
+Ya no circula en el comercio las monedas de oro y plata como medio de pago. 
+
+Para cumplir funciones de reserva de valor se maneja el dinero de papel o moneda: dinero fiduciario. Este es emitido por un baco central de un estado nacional. 
+
+El dinero fiduciario depende de fe o confianza del público, ese papel va a desempeñar en el futuro alguna o todas las funciones que definen lo que es el dinero. El dinero papel puede o no tener respaldo en mercancías como el oro o la plata o en divisas extranjeras u otros activos de valor intrínseco. 
+
+El uso de dinero sin valor intrínseco facilita a los gobiernos tanto la regulación del sistema de crédito sino les provee un recurso siempre a su disposición para financiar los déficits presupuestarios.
+
+## Creación primaria y secundaria de dinero: balance del banco central y base monetaria / Balance de los bancos comerciales y oferta monetaria / Indicadores
+
+### ¿Cómo se crea el dinero?
+
+El dinero llega a nosotros directa o indirectamente desde los bancos comerciales y otras entidades financieras y un a parte del dinero que tenemos consiste en depósitos bancarios. La casa de la moneda u otras imprentas imprimen billetes y monedas que **encarga el banco central**, pero es este el que los convierte en dinero previamente. 
+
+
+**Creación primearia del dinero:** acción del banco central de realizar pagos a las entidades financieras o al gobierno mediante sus propios billetes y monedas o bien mediante la acreditación de fondos en cuentas de depósito. Esos fondos de las entidades financieras entrarán a circular entre el público del sistema bancario. 
+
+**Creación secundaria del dinero:** se lleva a cabo por las entidades financieras (bancos comerciales), al tomar depósitos y otorgar préstamos.
+
+#### Términos y aspectos operativos de las entidades financieras
+
+##### Sistema de encajes fraccionarios
+
+consiste en que los bancos comerciales pueden dar en préstamo una fracción del dinero recibido en depósito de sus clientes. Esta característica favorece la multiplicación de medios de pago disponibles para el público pero es la **primera condición para la existencia de crisis financieras.** Esto es, ante una pérdida de confianza del público en la solvencia, las entidades provoca que los bancos se queden sin fondos para atender un masivo retiro de los depósitos.
+
+Por lo tanto, el banco centra **obliga** a los bancos comerciantes a dejar disponible, sin prestar, parte restante de los depósitos de modo de "reserva mínimas" o encajes mínimos, legales u obligatorios.
+
+Si las sumas en reserva no alcanzan (cunde el pánico entre los ahorristas pensando en el cierre o quiebre d elos bancos), en ese caso el banco central, **como prestamista de última instancia**, prestará el dinero necesario para que no cierren los bancos, ocasionando una catastrofe para el sistema de crédito y, através de él, para la producción y el empleo. 
+
+
+##### Reservas bancarias
+
+
+$C_R$: efectivo retenido en cajas fuertes de entidades financieras.
+$R_D$: fondos depositados en cuenta corriente en el banco central. 
+
+$R$: reservas bancarias
+
+$R = C_R + R_D$
+
+$R_L$: encajes mínimos o reservas legales u obligatorias.
+
+$R_E$: reservas excedentes. 
+
+$R_E = R - R_L$
+
+En general, los bancos comerciales tienden a reducir a cero las reservas excedentes cuando ven aumentar su margen entre la tasa activa y pasiva y/o cuando el riesgo de incobrabilidad baja. 
+
+
+
+#### Circulante
+
+$C_p$: los billetes y monedas en poder del público.
+
+$C_r$: los billetes y monedas de las entidades financieras. 
+
+$C$: circulante.
+
+$C = C_p + C_r$
+
+
+La totalidad de billetes y monedas emitidos por el Banco central y, sumado a los depósitos de las entidades financieras encuenta corriente en el baco central ($R_D$). Constituyen la **base monetaria (BM)**.
+
+$BM = C_p + R = C + R_D =  C_p + C_r + R_D$
+
+Las familias y las empresas reparten su dinero entre efectivo ($C_p$) y depósitos (D).
+
+
+
 
 
