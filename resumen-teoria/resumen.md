@@ -1,6 +1,7 @@
 RESUMEN TEORICA 
 ---
 
+Magali Marijuan
 
 - [El capitalismo contemporáneo](#el-capitalismo-contemporáneo)
     - [Breve perfil del sistema tributario argentino](#breve-perfil-del-sistema-tributario-argentino)
@@ -40,7 +41,18 @@ RESUMEN TEORICA
       - [Términos y aspectos operativos de las entidades financieras](#términos-y-aspectos-operativos-de-las-entidades-financieras)
         - [Sistema de encajes fraccionarios](#sistema-de-encajes-fraccionarios)
         - [Reservas bancarias](#reservas-bancarias)
-      - [Circulante](#circulante)
+        - [Circulante](#circulante)
+        - [Tasas y spread](#tasas-y-spread)
+        - [Medios de pago u oferta monetaria o simplemente dinero](#medios-de-pago-u-oferta-monetaria-o-simplemente-dinero)
+      - [Multiplicador de la base monetaria](#multiplicador-de-la-base-monetaria)
+    - [Clasificación de la oferta monetaria por su grado de liquidez](#clasificación-de-la-oferta-monetaria-por-su-grado-de-liquidez)
+  - [Determinantes del valor de mercado de un activo. Indicadores usuales.](#determinantes-del-valor-de-mercado-de-un-activo-indicadores-usuales)
+    - [La relación entre la renta de un préstamo con cotización pública y su valor de mercado](#la-relación-entre-la-renta-de-un-préstamo-con-cotización-pública-y-su-valor-de-mercado)
+      - [La relación entre el precio de una acción de capita de una empresa y sus ganancias.](#la-relación-entre-el-precio-de-una-acción-de-capita-de-una-empresa-y-sus-ganancias)
+  - [Herramintas de política monetaria: encajes, redescuento y operaciones de mercado abierto /  Impacto de la política monetaria sobre la producción y el empleo](#herramintas-de-política-monetaria-encajes-redescuento-y-operaciones-de-mercado-abierto---impacto-de-la-política-monetaria-sobre-la-producción-y-el-empleo)
+    - [Herramientas del banco central para una política monetaria](#herramientas-del-banco-central-para-una-política-monetaria)
+  - [Modelo de mercado de dinero: oferta y demanda de dinero; determinación de las tasas de interés de mercado.](#modelo-de-mercado-de-dinero-oferta-y-demanda-de-dinero-determinación-de-las-tasas-de-interés-de-mercado)
+    - [Diferentes formas de la tasa de interés](#diferentes-formas-de-la-tasa-de-interés)
 
 # La Ciencia Económica y sus datos
 
@@ -747,9 +759,7 @@ $R_E = R - R_L$
 
 En general, los bancos comerciales tienden a reducir a cero las reservas excedentes cuando ven aumentar su margen entre la tasa activa y pasiva y/o cuando el riesgo de incobrabilidad baja. 
 
-
-
-#### Circulante
+##### Circulante
 
 $C_p$: los billetes y monedas en poder del público.
 
@@ -766,7 +776,161 @@ $BM = C_p + R = C + R_D =  C_p + C_r + R_D$
 
 Las familias y las empresas reparten su dinero entre efectivo ($C_p$) y depósitos (D).
 
+##### Tasas y spread
+
+Tasa de interés activa. El rendimiento de los préstamos que pertenecen al activo de la entidad. 
+
+Tasa de interés pasiva. Grava a los depósitos que son deudas del banco.
+
+Spread = tasa activa - tasa pasiva.
 
 
+##### Medios de pago u oferta monetaria o simplemente dinero
+
+Los depósitos del público D emitidos con estas operaciones de los bancos comerciales constituyen una creación secundaria de dinero. Consiste en aumentar los medios de pago en poder del público mediante la constitución de prestamos y depósitos. 
+
+Se llama **medios de pago u oferta monetaria o simplemente dinero M** a la suma del circulante en poder público más lo depósitos del publico en los bancos omerciales D
+
+$M = C_p + D$
+
+
+#### Multiplicador de la base monetaria
+
+Un indicador de la capacidad de los bancos para crear dinero en la forma de depósitos está dada por el multiplicador de la base monetaria K. Su valor disminuye cuando el público o los banqueros deciden aumentar la cantidad que conservan consigo de illetes y monedas en relación con los depósitos.
+
+$$
+K = \frac{M}{BM} = \frac{C_p + D}{C_p + R}
+$$
+
+Los nuevos préstamos no pueden superar cierta proporción del depósito que lo originó. 
+
+Como los préstamos serán inmediatamente depósitos a disposición del beneficiario, se realimenta un proceso mediante el cual los bancos comerciales multiplican el crédito disponible en la economía con la misma suma inicial de billetes y monedas, **aumentando los medios de pago a disposición de la población para atender las necesidades financieras de las producción, la inversión y el consumo.**
+
+
+Si queremos tener una proyección de este indicador, mediante estimadores:
+
+$ce^*$: coeficiente de efectivo en poder del público
+
+$ce^* = \frac{C_p}{D}$
+
+$r^*$: coeficiente de reservas bancarias totales
+
+$r^* = \frac{R}{D} = \frac{R_L + R_E}{D} = r_L + r_E^*$
+
+$K^* = \frac{(ce ^* +1)}{ce^* + r*}$
+
+### Clasificación de la oferta monetaria por su grado de liquidez
+
+Dinero (M = oferta monetaria = medios de pago)
+M va acompañado de un subíndice que ordena cada agregado según su rapidez promedio para convertirse en dinero (liquidez).
+
+
+$M_1$: Agregado monetario que comprende, en la Argentina, circulante en poder del público más cuentas corrientes en pesos del sector público y privado no financiero.
+
+$M_2$: Medios de pago, comprende circulante en poder del público más depósitos "a la vista", es decir, de inmediata disponiblidad, no a plazo fijo, en pesos del sector puúblico y privado no financiero. 
+
+$M_3$: Agregado monetario amplio, comprende circulante en poder del público más total de depósitos en pesos del sector público y privado no financiero. 
+
+
+## Determinantes del valor de mercado de un activo. Indicadores usuales. 
+
+Un ahorrista busca las rentas más altas para su capital entre diversos instrumentos de inversión. Los cambios en la cotización o precios en los activas de renta modfiican la rentabilidad implícita del ahorrista en el momento de asquirir un activo financiero. 
+
+Los tomadores del dinero también evalúan la conveniencia de las diversas fuentes para financiarse según su costo. tasa de interés, descuento al precio de colocación de sus títulos, impuestos, comisiones, requisitos contables y administrativos y garantías, entre otros. El costo de fondeo, sea bancario o bursatil, no se asumirá si no lo justifica la rentabilidad proyectada de cierta inversión de capital. 
+
+El valor de mercado o cotización de los activos financieros depende principalmente de:
+- La renta que se prometa. 
+- El riesgo percibido de incumplimiento por parte del emisor
+- La tasa de interés por depósitos bancarios u otras alternativas más seguras de rentas disponibles. 
+
+> Influyen también la facilidad de liquidar (sin demoras ni pérdidas significativas), la volatidad de sus precios en el mercado, la trayectoria bursatil del emisor, el momento en cuanto a las expectativas económicas como hacia los valores bursátiles, la coyuntura política, etc. 
+
+El valor de mercado de los capitales cotizantes puede cobrar una elevada autonomia respecto de su valor patrimonial contable, dando lugar a enormes sumas del ahorro público cuyo valor se asienta apenas sobre una incierta esperanza colectiva de recibir en el futuro un cierto flujo de fondos. 
+
+El ahorrista *arbitra su capital* para obtener *ganancias de capital*: vendiendo lo que posee y se encareción y comprando lo que quedó conyunturalemente barato por su relación entre pecio y renta esperada. 
+
+Por esos movimentos es que las rentabilidades de diferentes activos tienden a nivelarse por la acción del mercado en un proceso siempre inacabado de alzas y bajas por el permanente cambio en las condiciones que explican los *valores de mercados*. 
+
+> La expectativa de aumento en las tasas de intetrés desalentará los valores de cotización de los activos. 
+
+
+### La relación entre la renta de un préstamo con cotización pública y su valor de mercado
+
+El **yield** de un **bono** es la tasa de rentabilidad esperada para el potencial comprado dada su renta esperada y el nivel de su cotización actual. Se calcula como el cociente porcentualizado entre el monto de intereses que se espera que efectivamente pague ese bono y su valor actual de compraventa (cotización) en el mercado. 
+
+Para ser útil el rendimiento expresado como en yield debe **utilizarse toda la información disponible** en el momento de tomar decisiones de compra o venta de un activo. De donde la renta en el numerador del yiel debe ser la que se proyecte o espere sobre la base de la información confiable más reciente. 
+
+Un fuerte movimiento alcista de las cotizaciones en el mercado (impulsado, por ejemplo, por alguna medida favorable a las ganancias empresarias) podría reducir los yields esperados durante cierto tiempo, alentando a una parte de la oferta de fondos a liquidar activos y dirigirse hacia los depósitos bancarios, facilitando a las entidades bancarias a auemntar sus spreads reduciendo las tasas de interés por depósitos. 
+
+**YIELD: RENTABILIDAD DE UN BONO**
+
+$YIELD = \frac{renta\ esperada}{valor\ de\ mercado}$
+
+
+
+#### La relación entre el precio de una acción de capita de una empresa y sus ganancias.
+
+
+Cuando sube la cotización de las acciones de una empresa por causas diferentes de una mayor expectativa acerca de sus ganancias se elevará su **PER** (price-earnings ratio). El Per se calcula como la proporción entre el valor de mercado o la cotización de una empresa y sus ganancias esperadas o proyectadas por los inversores. 
+
+Si se calculara usando las ganancias históricas y no se las actualizara mediante proyecciones a base de informaciones posteriores, el valor de PER sería anticuado. 
+
+**PER: RAZÓN PRECIO-GANANCIA**
+
+$PER = \frac{valor\ de\ mercado}{renta\ esperada}$
+
+
+## Herramintas de política monetaria: encajes, redescuento y operaciones de mercado abierto /  Impacto de la política monetaria sobre la producción y el empleo
+
+La política monetaria está a cargo del banco central y consiste en la manipulación de la oferta monetaria para modificar las tasas de interés de mercado (i) y así poder influir sobre la demanda agregada y, a partir de ella, sobre el nivel de actividad (Y), empleo y precios. 
+
+### Herramientas del banco central para una política monetaria 
+
+Si el objetivo de la autoridad monetaria fuera **expandir** el nivel de actividad y empleo, debería incrementar:
+
+1. Reducir el coeficiente de encajes mínimos como cierta proporción de los depósitos recibidos por las entidades financieras
+2. Reducir la tasa de interés por dedscuentos o por pases activos que cobra el banco central a las entidades financieras por los préstamos que les otorga. 
+3. Compras en operaciones de mercado abierto de activos financieros y de activos de reserva. 
+
+Lo contrario debería hacer un gobierno si quisiera atacar a la inflación reduciendo el crédito y subiendo las tasas de interés del mercado a fin de desalentar la demanda agregada para contener el alza de los precios (casos contractivos). Por sus efectos **recesivos** se suelen intentar políticas alternativas no monetarias pero también orientadas a la contención del alza de los precios, incluyendo la regulación gubernamental de los precios y los salarios o bien la promoción de compromisis antiinflacionario entre el gobierno, los sindicatos, y las empresas entre otras iniciativas. 
+
+## Modelo de mercado de dinero: oferta y demanda de dinero; determinación de las tasas de interés de mercado. 
+
+El modelo del mercado de dinero se consntituye con una oferta de dinero y una demanda de dinero. No se expresan en terminos nominales sino corregidas por inflación. Se miden para su análisis dentro del modelo por su poder de compra en términos de bienes y servicios y no como suma de billetes, modelos, depósitos banacrios, etc. 
+
+El nivel de la tasa de interés (i) depende en esete modelo de la demanda de fondos líquiods L. 
+
+La **demanda de dinero**(L) expresa el deseo de tener parte de la riqueza en forma líquida, sea atesorada en efectivo o bien como depósito bancario u otros activos de elevada liquidez. 
+
+Segun keynes motivos de la demanda de dinero:
+- Motivo transacciones
+- Motivo prudencia
+- Motivo especulación
+
+La demanda aumenta desplazándose al ritmo de la actividad productiva, L = k * Y - H * i siendo Y el nivel de PBI a precios constantes. 
+
+La **Demanda de dinero** obeserva una pendiente negativa que obedece al impacto adverso de un aumento de las tasas de inetrés sobre la demanda de dinero: a una mayor tasa de interés corresponde un menor deseo de endeudarse. 
+
+La **oferta monetaria nominal (M)** es la suma de medios de pago disponibles para el público. M se analiza como saldos monetarios reales, es decir, ajustada por nivel de precios P su magnitud queda expresada por su poder de compra representadose como M/P. 
+
+La oferta nominal de dinero M es regulada por la autoridad monetaria de manera directa y a través de las entidades financieras tomando en cuenta el comportamiento financiero de las empresas no financieras y de las familias. Dado el nivel de la demanda, una expansión de la cantidad de dinero y crédito impulsada por el banco central alienta al descenso de las tasas de interés de mercado. 
+
+Segun keynes: la tasa de interés es un fenómeno convencional. 
+
+El modelo permite también considerar el impacto contractivo que tendría sobre la oferta moentaria M/P un aumento en el nivel general de los precios P. 
+
+Por ser el resultado de las decisiones de politica monetaria, la oferta monetaria real se exprsa vertical, es decir, inelástica respecto del nivel de la tasa de interés. Se modela así su anturaleza como esencialmente administrativa y a cargo del banco central. L ausenia de mecanismos de mercado que la vinculen con el nivel de las tasas de interés del mercado. 
+
+> Dada cierta demanda de dinero  L = k * Y - H * i, la mayor diponiblidad de medios de pago tiende a reducir el nivel de las tasas de interés de equilibro del mercado. 
+
+### Diferentes formas de la tasa de interés
+
+**Tasa de interés**: renta que obtiene el prestamista de una suma de dinero que es habitualmente expresada como porcentaje del monto prestado. 
+
+**Tasa de interés nominal**: tasa de interés que relaciona renta y monto prestado expresados en la unidad monetaria corriente. Habitualmente se informa como porcentaje anual. 
+
+**Tasa de interés real**: resulta de ajustar por inflación la tasa de interés nomial. 
+
+**Tasa de interés efectiva o de capitalización**: tasa de interés que rinde efectivamente un préstamo o depósito o bien proporción en que efectivamente aumentó el capital original durante cierto periodo suponiendo la reinversión de lasa rentas obtenidas en cada subperiodo.
 
 
